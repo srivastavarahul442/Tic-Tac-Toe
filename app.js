@@ -4,6 +4,7 @@ let newGameBtn = document.querySelector("#new-btn");
 let msgContainer = document.querySelector(".msg-container");
 let msg = document.querySelector("#msg");
 
+
 let turn0 = true;
 
 const winPattern = [
